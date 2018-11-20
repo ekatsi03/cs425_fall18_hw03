@@ -32,6 +32,17 @@
 
         <h1>The scores are: </h1>
 
+       <?php 
+            if (!file_exists('scores.txt')){ ?>
+                <h1 class="display-4">No scores to display</h1>
+            <?php }else {
+                $array = file('scores.txt');
+                $size=sizeof($array);
+                for($i=0;$i<$size;$i++){
+                    echo $array[$i];
+                }
+            }
+        ?>
     <div style="text-align: right;">
         <a href="#top"><img src="arrow_up.png" alt="arrow_up" style="width:20px;"></a>
     </div>
