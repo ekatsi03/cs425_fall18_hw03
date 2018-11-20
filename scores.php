@@ -1,3 +1,5 @@
+<?php session_start();
+    session_unset();?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -19,7 +21,7 @@
 
             <div class="navbar">
                 <a href="index.php">Home Page</a>
-                <a href="help.html">Help Page</a>
+                <a href="help.php">Help Page</a>
                 <a href="scores.php" style="color:orange;text-decoration: underline">High Scores Page</a>
             </div>
 

@@ -109,7 +109,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             <div class="navbar">
                 <a href="index.php" style="color:orange;text-decoration: underline">Home Page</a>
-                <a href="help.html">Help Page</a>
+                <a href="help.php">Help Page</a>
                 <a href="scores.php">High Scores Page</a>
             </div>
 
@@ -163,6 +163,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </div>
 
     <footer>
+        <br>
         <hr class="styleHrFooter ">
     </footer>
 
