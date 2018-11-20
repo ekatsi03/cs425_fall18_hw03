@@ -4,35 +4,39 @@
   <difficulty level="1">
 
     <quest>
-      A clickable link that takes you from one document to another, or to any resource, even within a the same document, with text that is highlighted in some fashion is called
+      <name>A clickable link that takes you from one document to another, or to any resource, even within a the same document, with text that is highlighted in some fashion is called</name>
       <answer>Locator</answer>
       <answer>URL</answer>
       <answer>Protocol</answer>
       <valid_answer>Hyperlink</valid_answer>
     </quest>
 
-    <quest>Inline CSS is applies a unique style over 
+    <quest>
+      <name>Inline CSS is applies a unique style over</name>
       <answer>Multiple elements</answer>
       <answer>Whole document</answer>
       <answer>Half document</answer>
       <valid_answer>Single element</valid_answer>
     </quest>
 
-    <quest>Regular expression in JavaScripts uses defined string method(s) known to be
+    <quest>
+      <name>Regular expression in JavaScripts uses defined string method(s) known to be</name>
       <answer>search()</answer>
       <answer>toString()</answer>
       <answer>replace</answer>
       <valid_answer>Both A and C</valid_answer>
     </quest>
 
-    <quest>In HTML, colors can be specified using HSL value, which means
+    <quest>
+      <name>In HTML, colors can be specified using HSL value, which means</name>
       <answer>High, Static, Low </answer>
       <answer>High, Stable, Low </answer>
       <answer>HTML, Semantics, Language </answer>
       <valid_answer>Hue, Saturation, Light </valid_answer>
     </quest>
 
-    <quest>In HTML forms, form elements are different type of
+    <quest>
+      <name>In HTML forms, form elements are different type of</name>
       <answer> Input elements</answer>
       <answer>Text fields </answer>
       <answer> Submit buttons</answer>
@@ -43,35 +47,40 @@
 
   <difficulty level="2">
 
-    <quest> In a web address, name of a document or address is defined by the
+    <quest> 
+      <name>In a web address, name of a document or address is defined by the</name> 
       <answer>Prefix </answer>
       <answer>Port </answer>
       <answer>Domain name </answer>
       <valid_answer>Filename </valid_answer>
     </quest>
 
-    <quest>To convert variables to numbers, methods offered by JavaScipt are of
+    <quest>
+      <name>To convert variables to numbers, methods offered by JavaScipt are of</name>
       <answer> 5 types</answer>
       <answer> 4 types</answer>
       <answer> 2 types</answer>
       <valid_answer>3 types </valid_answer>
     </quest>
 
-    <quest>Default display value for most of HTML elements are
+    <quest>
+      <name>Default display value for most of HTML elements are</name>
       <answer>Block </answer>
       <answer>Inline </answer>
       <answer>External </answer>
       <valid_answer>Both A and B </valid_answer>
     </quest>
 
-    <quest>HTML was initially discovered in
+    <quest>
+      <name>HTML was initially discovered in</name>
       <answer>Char </answer>
       <answer>int </answer>
       <answer>NaN </answer>
       <valid_answer>object </valid_answer>
     </quest>
 
-    <quest>A JS method named valueOf() returns
+    <quest>
+      <name>A JS method named valueOf() returns</name>
       <answer>A string as a number </answer>
       <answer>An exponential as a number </answer>
       <answer>A number as a string </answer>
@@ -82,35 +91,40 @@
 
   <difficulty level="3">
 
-    <quest>Data type of NaN is a
+    <quest>
+      <name>Data type of NaN is a</name>
       <answer>Null </answer>
       <answer>Undefined </answer>
       <answer> Character</answer>
       <valid_answer>Number </valid_answer>
     </quest>
 
-    <quest>XHTML elements should always be declared in
+    <quest>
+      <name>XHTML elements should always be declared in</name>
       <answer>Uppercase </answer>
       <answer>Titlecase </answer>
       <answer>Sentence case </answer>
       <valid_answer>Lowercase </valid_answer>
     </quest>
 
-    <quest>In HTML, unvisited links are specified in color
+    <quest>
+      <name>In HTML, unvisited links are specified in color</name>
       <answer>Purple </answer>
       <answer>Red </answer>
       <answer>Green </answer>
       <valid_answer>Blue </valid_answer>
     </quest>
 
-    <quest>HTML is known to be
+    <quest>
+      <name>HTML is known to be</name>
       <answer>Madeup language </answer>
       <answer>Modeup language </answer>
       <answer>Maskup language </answer>
       <valid_answer>Markup language </valid_answer>
     </quest>
 
-    <quest>Web browsers makes request of pages from web servers by using a
+    <quest>
+      <name>Web browsers makes request of pages from web servers by using a</name>
       <answer>Server </answer>
       <answer>Client </answer>
       <answer>Medium </answer>
