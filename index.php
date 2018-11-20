@@ -110,12 +110,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="navbar">
                 <a href="index.php" style="color:orange;text-decoration: underline">Home Page</a>
                 <a href="help.html">Help Page</a>
-                <a href="scores.php">Contact</a>
+                <a href="scores.php">High Scores Page</a>
             </div>
 
             <a id="top"></a>
         </div>
-
+<br><br>
 
     <h1 id="welcome">Welcome to the EPL425 game!</h1>
         

@@ -20,12 +20,13 @@
             <div class="navbar">
                 <a href="index.php">Home Page</a>
                 <a href="help.html">Help Page</a>
-                <a href="scores.php" style="color:orange;text-decoration: underline">Contact</a>
+                <a href="scores.php" style="color:orange;text-decoration: underline">High Scores Page</a>
             </div>
 
             <a id="top"></a>
 
         </div>
+        <br><br>
 
         <h1>The scores are: </h1>
 
